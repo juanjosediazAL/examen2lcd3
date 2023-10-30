@@ -1,6 +1,5 @@
 vars,type
 PassengerId,num
-Survived,target
 Pclass,num
 Name,char
 Sex,char
@@ -10,3 +9,4 @@ Ticket,char
 Fare,num
 Cabin,char
 Embarked,char
+Survived,target
